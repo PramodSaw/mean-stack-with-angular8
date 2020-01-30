@@ -1,0 +1,31 @@
+{
+  "name": "mean-stack-with-angular8",
+  "version": "1.0.0",
+  "description": "MEAN Stack With Angular 8",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PramodSaw/mean-stack-with-angular8.git"
+  },
+  "keywords": [
+    "\u001b[A\u001b[A\u001b[B\u001b[BMEAN",
+    "Stack",
+    "Angular",
+    "8",
+    "Aplicatin\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dp\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Co\u001b[Bn"
+  ],
+  "author": "Pramod Saw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PramodSaw/mean-stack-with-angular8/issues"
+  },
+  "homepage": "https://github.com/PramodSaw/mean-stack-with-angular8#readme",
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.10"
+  }
+}
