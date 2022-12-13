@@ -25,7 +25,7 @@
   "homepage": "https://github.com/PramodSaw/mean-stack-with-angular8#readme",
   "dependencies": {
     "core-js": "^3.6.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.8.10"
   }
 }
